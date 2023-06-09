@@ -8,4 +8,3 @@ Raúl Martínez Ballarín, Daniel Priego Barea
        - PRA2.jpynb: Fichero con el código implementado en Python.
   * Carpeta dataset -> Contiene los ficheros de datos originales y modificados tras el análisis.
       - .csv: Dataset original que incluye información sobre pacientes relacionados con enfermedades cardiacas.
-      - .csv: Dataset modificado tras el análisis realizado.
