@@ -7,5 +7,3 @@ Raúl Martínez Ballarín, Daniel Priego Barea
   * Carpeta source -> Contiene los archivos referentes al código implementado.
        - PRA2.jpynb: Fichero con el código implementado en Python.
   * heart.csv -> Dataset original que incluye información sobre pacientes relacionados con enfermedades cardiacas.
-
-https://drive.google.com/file/d/1RcsCtlpAVDmlKUZHoL2iMTucDiQJIxZ2/view?usp=drive_link
